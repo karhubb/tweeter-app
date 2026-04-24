@@ -1,2 +1,2 @@
 # tweeter-api-render
-a repo for backend in render
+a tweeter app
