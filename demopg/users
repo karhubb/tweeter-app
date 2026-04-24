@@ -1,0 +1,21 @@
+{
+  "username": "kar_dev",
+  "email": "kar@example.com",
+  "password": "karl1606",
+  "roles": ["admin", "user"]
+}
+
+
+{
+  "username": "admin_user",
+  "email": "admin@fitpaw.com",
+  "password": "password123",
+  "role": ["admin", "user"] 
+}
+
+{
+  "username": "mintuser",
+  "email": "mint@mail.com",
+  "password": "password123",
+  "role": ["user"]
+}
