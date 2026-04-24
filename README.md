@@ -1,2 +1,2 @@
-# tweeter-api-render
+# tweeter-app
 a tweeter app
